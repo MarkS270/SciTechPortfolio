@@ -6,7 +6,7 @@ Along with the portfolio for each grade as listed below, here is the SciTech Por
 - 
 
 ### Grade 9 - 12 Portfolio
-[Grade 9](./posts/grade9Portfolio.md)
-[Grade 10](./posts/grade10Portfolio.md)
-[Grade 11](./posts/grade11Portfolio.md)
-[Grade 12](./posts/grade12Portfolio.md)
+- [Grade 9](./posts/grade9Portfolio.md)
+- [Grade 10](./posts/grade10Portfolio.md)
+- [Grade 11](./posts/grade11Portfolio.md)
+- [Grade 12](./posts/grade12Portfolio.md)
