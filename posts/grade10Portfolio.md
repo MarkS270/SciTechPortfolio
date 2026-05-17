@@ -13,7 +13,7 @@ After finding out my best matches, I realized that these 3 occupations, though h
 
 ## Evidence of Academic Achivements
 ![Alt text](../assets/CertificateWHMIS-2024.jpg)
-![Alt text](../assets/CertificateOSHA-2024.jpg)
+![Alt text](../assets/CertificateOHSA-2024.jpg)
 ![Alt text](../assets/CertificateHSATYW-2024.jpg)
 ![Alt text](../assets/CertificateFireExtinguisher-2024.jpg)
 ![Alt text](../assets/CertificateAwarnessTraining-2024.jpg)
