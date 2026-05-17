@@ -20,7 +20,7 @@ I had to build a fully-functioning logic gate circuit with the knowledge that I 
 ### Reflection
 In this tech project I built a Logic Gate Circuit with 5 chips and 6 inputs, and 8 LED’s. I also made the schematics of the Logic Gate Circuit and the Truth Table for the Logic Gate Circuit. When we first got this project I was a little excited and happy, but also confused about what I had to do. But through the time I was working with Logic Gates the confusion went away and I was happy and excited. I better understood more about the technology around us, but more specifically the circuits. The most annoying part about this project was making the Truth Table because it was extremely long.
 ![Alt text](../assets/Logic-Gate-P1.png)
-![Alt text](../assets/Logic-Gate-P2.pdf)
+![Alt text](../assets/Logic-Gate-P2.jpg)
 ![Alt text](../assets/Logic-Gate-P3.PNG)
 
 
@@ -39,7 +39,7 @@ In this project my group and I had to use either wind or water to generate elect
 I had to choose and research an element from the periodic table and design a “WANTED” or “HERO” poster of that element. The poster needed to have five pictures of that element and where it is used, characteristics of the element, chemical and physical properties of the element, where it is used, and some interesting facts about it. 
 ### Reflection
 I chose this Science project because we got to choose what element we wanted to research and make a poster about. I also learned a lot about the element Lead from this project. This project had a few steps. First, we had to choose the element we wanted to research about. Secondly, we had to research the element we chose and find a few pictures that represent the element. And finally, we had to take everything we found and either make a wanted poster or hero poster.
-![Alt text](../assets/image4.jpeg)
+![Alt text](../assets/Lead-Wanted-Poster.jpg)
 
 
 # Section 3: Community Work & Extracurricular Involvement
