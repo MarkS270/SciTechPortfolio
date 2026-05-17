@@ -8,9 +8,9 @@ After completing the personal and Occupation surveys for five occupations that i
 After finding out my best matches, I realized that these 3 occupations, though having the best matches, also had a connection to what I liked to do such as, with the electronics engineer occupation, having a deep understanding of computers with more specific understandings of computer science and computer programming. These three occupations are what I think will be the occupations I will be pursuing in the future.
 
 ## Resume
-
+![Alt text](../assets/Resume-P1.docx)
 ## Cover Letter
-
+![Alt text](../assets/CoverLetter-P2.docx)
 ## Evidence of Academic Achivements
 ![Alt text](../assets/CertificateWHMIS-2024.jpg)
 ![Alt text](../assets/CertificateOHSA-2024.jpg)
