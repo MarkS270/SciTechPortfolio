@@ -13,12 +13,14 @@ After finding out my best matches, I realized that these 3 occupations, though h
 
 ## Evidence of Academic Achivements
 
+
 # Section 2: SciTech Skills & Knowledge & Certifications
 ## SNC2DR Science
 ### Symposium Project
 The Science project that I chose to show is the Science Culminating: China and Climate Change - Pollution due to manufacturing. To begin the Science Culminating we were first put into groups by the teacher, and as a group had to choose a topic about the environment; we chose China and Climate Change - Pollution due to manufacturing. After choosing the topic we had to gather information about the effects on biology, physics, and chemistry on the surrounding land, how it works and how it affects people. After that we had to present it to the class as a group while other groups also presented.
 ### Reflection
 In this final Assignment I learned a lot about how climate change isn’t just affecting the climate of the Earth but also the people that live on Earth. At the beginning of the project we chose the topic of China and Climate Change, and over the next few days we gathered information on the effects of pollution (Climate Change) by manufacturing in China in the topics of Biology, Chemistry and Physics. Lastly we got a board, and printed all the information neatly and added it to the board with statistics and images that were related to our topic. This project was interesting since I found out about many more effects of climate change.
+
 
 ## TDJ2OR Technological Design
 ### Pen/Pencil Holder Project
@@ -28,8 +30,25 @@ I chose this Tech project about making a pen/pencil holder out of cardboard and 
 
 
 # Section 3: Community Work & Extracurricular Involvement
+##Ski School
+**Date:** January 2024 to March 2024
+
+**Hours:** 30
+
+**Responsibility:** Assist in teaching skiing to children
+##Reflection:
+Every Sunday from January to March  At 11 am and 1 pm, I would help the coach with teaching the little kids. We would slowly progress and get them ready for the big proper slopes using a less steeper and less longer slope for practice. After many weeks we would start going on larger slopes and a few harder ones as well. 
 
 # Section 4: Extracurricular SciTech Experiences
+In Coding Club for Zebra Robotics, I was able to finish the rest of the Python coding challenges, and start learning about how statements work Java and JavaFx coding since it is a different kind of coding language.
+
+I learned about how to use the different incode built functions and statements and how to take what I learned from python and use it in Java. Though Java is a different coding language, it still shares similarities with Python such as how the if statements work.
+
+When I finished Python and started Java coding, I knew what to do since I have gone through a few languages already and started reading on how to do simple coding in Java to how to check if a credit card number is valid. After a few couple of months, I was able to start on JavaFx which is used to make tabs that the user can interact with.
+
+After completing the Challenges for JavaFx, I reached the final Challenges for Java and JavaFx. For the last three challenges I had to make a GUI for three different types of code with each having a set of parameters. I was able to finish the first challenge which was making a GUI for a library program that I made previously in Java. Below are pictures of the working GUI of the library program. After the first Challenge was done, I started with the second challenge which was for a burger place you make, and didn’t finish yet. 
+
+In June 2024, Zebra Robotics held another S.T.R.I.P.E Competition, with three categories: robotics, programming and innovation. I chose programming for python because I finished the Python Course, there was no coding for Java, and it is important to make sure you don’t forget how to code in languages you finished in. In this competition, we were given multiple challenges that were ordered from easy to hard, each giving a different amount of points. We were allowed to choose any one and allowed to do multiple of them. After the competition finished and the judges finished assessing everyone, the awards were handed out and I got 3rd place.
 
 
 - Topic(s):
