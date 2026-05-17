@@ -20,8 +20,8 @@ I had to build a fully-functioning logic gate circuit with the knowledge that I 
 ### Reflection
 In this tech project I built a Logic Gate Circuit with 5 chips and 6 inputs, and 8 LED’s. I also made the schematics of the Logic Gate Circuit and the Truth Table for the Logic Gate Circuit. When we first got this project I was a little excited and happy, but also confused about what I had to do. But through the time I was working with Logic Gates the confusion went away and I was happy and excited. I better understood more about the technology around us, but more specifically the circuits. The most annoying part about this project was making the Truth Table because it was extremely long.
 ![Alt text](../assets/Logic-Gate-P1.png)
-![Alt text](../assets/Logic-Gate-P2.png)
-![Alt text](../assets/Logic-Gate-P3.png)
+![Alt text](../assets/Logic-Gate-P2.pdf)
+![Alt text](../assets/Logic-Gate-P3.PNG)
 
 
 ## Renewable and Sustainable Energy Project
