@@ -18,7 +18,7 @@ I dream of being an engineer for computer science, specifically cybersecurity or
 ### Logic Gate Circuit Assignment
 
 
-![Alt text](./assets/LogicGate.png)
+![Alt text](./assets/Logic-Gate-P1.png)
 ### Reflection
 
 
