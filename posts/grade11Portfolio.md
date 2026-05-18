@@ -5,7 +5,7 @@ During my Summer break I had time to realize and understand that I would like to
 
 Then I started looking into what universities I would like to go to for post-secondary. I shortened it down to 6 universities: University of Toronto, University of Toronto Mississauga, Toronto Metropolitan University, OntarioTech University, University of Guelph, and McMaster University. These would be the ones I would apply to and visit later.
 
-## Evidence pf Academic Achievements
+## Evidence of Academic Achievements
 
 # Section 2: SciTech Skills & Knowledge & Certifications
 ## SPH3UR Physics
@@ -21,7 +21,15 @@ This Technology Project is the Final Project for the Computer Science course. Fo
 In this Final Project I learned a lot about creating and optimizing games, as well as how important is the Planning and Design stage for any large project and how it will affect the end result. During the beginning of this project we first had to decide on the game we wanted to create, make a pseudocode game, and make a simple Mock GUI Design. From there we created the code to do all the necessary tasks. Close to the end of the project we had to make the game more appealing, such as including images or using different colors to make the game stand out. Throughout this process, I was able to learn that the planning stage allowed me to slove the necessary sections faster due to already knowing what I needed to do. This project was fun and interesting sice we were able to make a game but also make it effectively.
 
 # Section 3: 
+## Ski School
 
+**Date:** January 2025 to March 2025
+
+**Hours:** 30
+
+**Responsibility:** Assist in teaching skiing to children
+### Reflection:
+Every Sunday from January to March  At 11 am and 1 pm, I would help the coach with teaching the little kids. We would slowly progress and get them ready for the big proper slopes using a less steeper and less longer slope for practice. After many weeks we would start going on larger slopes and a few harder ones as well. 
 
 # Section 4: 
 After finishing Java and JavaFx at Zebra Robotics Coding Club, I transitioned to an online course that was provided by Harvard University for Introduction to Artificial Intelligence with Python, in June. Here I was able to learn more about AI and the different tasks it is able to handle.
