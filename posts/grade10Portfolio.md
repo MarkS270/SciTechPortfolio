@@ -27,7 +27,7 @@ After finding out my best matches, I realized that these 3 occupations, though h
 The Science project that I chose to show is the Science Culminating: China and Climate Change - Pollution due to manufacturing. To begin the Science Culminating we were first put into groups by the teacher, and as a group had to choose a topic about the environment; we chose China and Climate Change - Pollution due to manufacturing. After choosing the topic we had to gather information about the effects on biology, physics, and chemistry on the surrounding land, how it works and how it affects people. After that we had to present it to the class as a group while other groups also presented.
 ### Reflection
 In this final Assignment I learned a lot about how climate change isn’t just affecting the climate of the Earth but also the people that live on Earth. At the beginning of the project we chose the topic of China and Climate Change, and over the next few days we gathered information on the effects of pollution (Climate Change) by manufacturing in China in the topics of Biology, Chemistry and Physics. Lastly we got a board, and printed all the information neatly and added it to the board with statistics and images that were related to our topic. This project was interesting since I found out about many more effects of climate change.
-![Alt text](../assets/Symposium-Project.HEIC)
+![Alt text](../assets/Symposium-Project.jpg)
 
 ## TDJ2OR Technological Design
 ### Pen/Pencil Holder Project
@@ -37,7 +37,8 @@ I chose this Tech project about making a pen/pencil holder out of cardboard and 
 
 
 # Section 3: Community Work & Extracurricular Involvement
-##Ski School
+## Ski School
+
 **Date:** January 2024 to March 2024
 
 **Hours:** 30
