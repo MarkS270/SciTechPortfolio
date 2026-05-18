@@ -8,8 +8,16 @@
 ![Alt text](../assets/CSIA-L1SkiInstructor.jpg)
 # Section 2:
 ## SPH4UR Physics
+### Marble Slingshot Project
+In this culminating project, we as a group had to design, build, and tweak a marble launcher using materials that are sustainable, have little to no impact on the environment. The built marble launcher will be used to hit 3 targets from a distance of 3.5 meters away. Then, using physics concepts, we are to analyze the different parts of the marble launch, firing and collision with the target, and demonstrate a strong understanding of springs, Hooke's Law, energy conservation, kinematics, momentum, and collisions.
+### Reflection
+This culminating project gave us the ability to implement many of the physics concepts and formulas with real world information gathering. This can be very well seen when we did many trials to find the average velocity of the marble by getting the average of the time the marble took to travel 2.1 meters. With this information, and other calculations of finding the correct formula, we would then be able to calculate the distance the rubber band had to be stretched to cover a certain distance. This project showed us the real world applications of physics by trying it for ourselves.
 
-##TDJ2OR Technological Design
+## TDJ2OR Technological Design
+### Login Page Assignment
+In this assignment we needed to create a login page using Card Layout. We had to make a program where the user had to put a username and password to then move onto the next page which would say the login was successful.  
+### Reflection
+In this assignment we used concepts we learned earlier this unit to complete this task such as using and implementing textfields, panels, frames, and buttons. Using all of this we were able to create the login screen. After the original program idea was finished, I tweaked the program to use passwordfield instead of textfield of the password input. This would provide security for the user. To allow the user to see what they wrote, I added a button to allow the user to change the input between the original text and the masking dots.
 
 # Section 3: Community Work & Extracurricular Involvement 
 ## Ski School
