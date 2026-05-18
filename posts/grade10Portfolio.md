@@ -57,9 +57,3 @@ When I finished Python and started Java coding, I knew what to do since I have g
 After completing the Challenges for JavaFx, I reached the final Challenges for Java and JavaFx. For the last three challenges I had to make a GUI for three different types of code with each having a set of parameters. I was able to finish the first challenge which was making a GUI for a library program that I made previously in Java. Below are pictures of the working GUI of the library program. After the first Challenge was done, I started with the second challenge which was for a burger place you make, and didn’t finish yet. 
 
 In June 2024, Zebra Robotics held another S.T.R.I.P.E Competition, with three categories: robotics, programming and innovation. I chose programming for python because I finished the Python Course, there was no coding for Java, and it is important to make sure you don’t forget how to code in languages you finished in. In this competition, we were given multiple challenges that were ordered from easy to hard, each giving a different amount of points. We were allowed to choose any one and allowed to do multiple of them. After the competition finished and the judges finished assessing everyone, the awards were handed out and I got 3rd place.
-
-
-- Topic(s):
-- What I struggled with:
-- What I’m proud of:
-- Next steps:
