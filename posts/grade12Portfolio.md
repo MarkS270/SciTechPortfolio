@@ -1,7 +1,8 @@
 # Grade 12
 # Section 1: Personal Information
 ## Updated Resume & Cover Letter
-
+[Download Updated Resume](../assets/PhysicsFrictionLab.docx)
+[Download Updated Cover Letter](../assets/PhysicsFrictionLab.docx)
 ## Evidence of Academic Achievements
 ![Alt text](../assets/UI-Java-III.jpg)
 # Section 2:
