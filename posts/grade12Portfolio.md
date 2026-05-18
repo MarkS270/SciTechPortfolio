@@ -13,6 +13,8 @@ In this culminating project, we as a group had to design, build, and tweak a mar
 ### Reflection
 This culminating project gave us the ability to implement many of the physics concepts and formulas with real world information gathering. This can be very well seen when we did many trials to find the average velocity of the marble by getting the average of the time the marble took to travel 2.1 meters. With this information, and other calculations of finding the correct formula, we would then be able to calculate the distance the rubber band had to be stretched to cover a certain distance. This project showed us the real world applications of physics by trying it for ourselves.
 
+[Download Project Report](../assets/Marble-Slingshot.docx)
+
 ## TDJ2OR Technological Design
 ### Login Page Assignment
 In this assignment we needed to create a login page using Card Layout. We had to make a program where the user had to put a username and password to then move onto the next page which would say the login was successful.  
