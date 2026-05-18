@@ -3,7 +3,7 @@
 ## Updated Resume & Cover Letter
 
 ## Evidence of Academic Achievements
-
+![Alt text](../assets/UI-Java-III.jpg)
 # Section 2:
 ## SPH4UR Physics
 
