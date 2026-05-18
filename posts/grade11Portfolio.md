@@ -13,6 +13,7 @@ Then I started looking into what universities I would like to go to for post-sec
 The Science Lab I chose to show is the Physics Lab for calculating the coefficient of friction of different masses of wood. To begin we were put into groups of three to four people, and as a group we had to, through 3 trials, find the Normal Force and Average Static and Kinetic Friction, for the original mass and original + extra mass. Using the information gathered we would then calculate the coefficient of kinetic and static friction.
 ### Reflection
 In this lab, I was able to get hands-on experience with calculating coefficients of kinetic and static friction. This hands-on experience allowed me to gain a greater understanding in a more fun and interesting environment, rather than being given the information and asked to calculate. I also realized that gaining good and reliable information to use for calculations was hard and in the conditions we were provided with, led me to see that many real life scenarios rely on trial and error for more accurate measurements and calculations.
+[Download .docx](../assets/PhysicsFrictionLab.docx)
 
 ## ICS3UR Introduction to Computer Science
 ### Game Creation Final Project
