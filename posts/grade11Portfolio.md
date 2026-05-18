@@ -6,13 +6,14 @@ During my Summer break I had time to realize and understand that I would like to
 Then I started looking into what universities I would like to go to for post-secondary. I shortened it down to 6 universities: University of Toronto, University of Toronto Mississauga, Toronto Metropolitan University, OntarioTech University, University of Guelph, and McMaster University. These would be the ones I would apply to and visit later.
 
 ## Evidence of Academic Achievements
-
+![Alt text](../assets/UI-Java-III.jpg)
 # Section 2: SciTech Skills & Knowledge & Certifications
 ## SPH3UR Physics
 ### Physics Lab - Coefficient of Friction
 The Science Lab I chose to show is the Physics Lab for calculating the coefficient of friction of different masses of wood. To begin we were put into groups of three to four people, and as a group we had to, through 3 trials, find the Normal Force and Average Static and Kinetic Friction, for the original mass and original + extra mass. Using the information gathered we would then calculate the coefficient of kinetic and static friction.
 ### Reflection
 In this lab, I was able to get hands-on experience with calculating coefficients of kinetic and static friction. This hands-on experience allowed me to gain a greater understanding in a more fun and interesting environment, rather than being given the information and asked to calculate. I also realized that gaining good and reliable information to use for calculations was hard and in the conditions we were provided with, led me to see that many real life scenarios rely on trial and error for more accurate measurements and calculations.
+
 [Download .docx](../assets/PhysicsFrictionLab.docx)
 
 ## ICS3UR Introduction to Computer Science
@@ -20,6 +21,8 @@ In this lab, I was able to get hands-on experience with calculating coefficients
 This Technology Project is the Final Project for the Computer Science course. For this project we had created a game using Java Processing. This Project was split into three stages: Planning and Designing, Rough Implementation, and Final touches. This Project was also worked on over the course of 5 days, with each day needing to be documented on a site, google sites, and published everyday having records of how much we completed as well as images of our progress.
 ### Reflection
 In this Final Project I learned a lot about creating and optimizing games, as well as how important is the Planning and Design stage for any large project and how it will affect the end result. During the beginning of this project we first had to decide on the game we wanted to create, make a pseudocode game, and make a simple Mock GUI Design. From there we created the code to do all the necessary tasks. Close to the end of the project we had to make the game more appealing, such as including images or using different colors to make the game stand out. Throughout this process, I was able to learn that the planning stage allowed me to slove the necessary sections faster due to already knowing what I needed to do. This project was fun and interesting sice we were able to make a game but also make it effectively.
+
+[Visit Final Project Journal Entries](https://sites.google.com/pdsb.net/marks-journal-entries/home)
 
 # Section 3: 
 ## Ski School
