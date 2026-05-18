@@ -58,7 +58,7 @@ At the Open House, I went to a group that talks about chemistry.  I showed the r
 **Hours:** 30.57
 
 **Responsibility:** Assist in teaching skiing to children
-## Reflection:
+### Reflection:
 At the Brimacombe Ski School in Orono, Ontario I would help instructors teach skiing to little kids. I would go there every Sunday from January to March at 11 am to 1 pm. On the first few days we would help the kids get used to the skis and help them learn hockey stops. Then if they say the kids are ready we would help them get on the chairlifts and then try the hockey stops they learned on  the smaller hills and apply them to the larger, easier hills. On the last few days we taught them how to turn on the hills and tried one of the harder hills. It was a fun experience helping younger kids to learn how to ski and it’s amazing to see how much work the instructors have to deal with.
 
 # Section 4: Extracurricular SciTech Experiences
