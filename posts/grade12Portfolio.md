@@ -1,10 +1,11 @@
 # Grade 12
 # Section 1: Personal Information
 ## Updated Resume & Cover Letter
-[Download Updated Resume](../assets/PhysicsFrictionLab.docx)
-[Download Updated Cover Letter](../assets/PhysicsFrictionLab.docx)
+[Download Updated Resume](../assets/MarkStratan-Resume-April2026.docx)
+
+[Download Updated Cover Letter](../assets/Updated-Cover-Letter.docx)
 ## Evidence of Academic Achievements
-![Alt text](../assets/UI-Java-III.jpg)
+![Alt text](../assets/CSIA-L1SkiInstructor.jpg)
 # Section 2:
 ## SPH4UR Physics
 
