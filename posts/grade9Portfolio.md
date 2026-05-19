@@ -19,6 +19,7 @@ I dream of being an engineer for computer science, specifically cybersecurity or
 I had to build a fully-functioning logic gate circuit with the knowledge that I have learned. I had to design and build a logic gate circuit with some parameters in mind. The circuit must include three different logic gate chips, and four or more different inputs, have at least two gates must be used twice, and the circuit must include necessary hardware such as a DIP switch, Logic Gate Chips, LED’s, connecting wires, etc. which are properly installed and neat. There were 3 parts to this project. I had to make (1) a diagram/schematics of the logic gate circuit, (2) a digital copy of the completed truth table, and (3) a fully functional circuit board in tinkercad.
 ### Reflection
 In this tech project I built a Logic Gate Circuit with 5 chips and 6 inputs, and 8 LED’s. I also made the schematics of the Logic Gate Circuit and the Truth Table for the Logic Gate Circuit. When we first got this project I was a little excited and happy, but also confused about what I had to do. But through the time I was working with Logic Gates the confusion went away and I was happy and excited. I better understood more about the technology around us, but more specifically the circuits. The most annoying part about this project was making the Truth Table because it was extremely long.
+
 ![Alt text](../assets/Logic-Gate-P1.png)
 ![Alt text](../assets/Logic-Gate-P2.jpg)
 ![Alt text](../assets/Logic-Gate-P3.PNG)
@@ -28,6 +29,7 @@ In this tech project I built a Logic Gate Circuit with 5 chips and 6 inputs, and
 I had to research, design, develop, build, and test a power generation plant that uses sustainable energy such as wind or water to power LED bulbs. First, I had to research power generation and draw thumbnail sketches of them. After this, I had to decide on the consumer or device that will use the electricity and draw an Orthographic projection of the consumer. Then we as a group decided what materials we were going to use. Once that was completed, my group began construction of the consumer and the power generation station. When we completed the construction and tested it we individually submitted a report explaining what we did.
 ### Reflection
 I chose this tech project because my group and I went through many problems in this project. My group and I had to use either wind or water to generate electricity to power up to 5 LED bulbs. In this project there were 4 stages: research, drawing, materials, and construction. For the first 2 stages, we had to do it individually before coming together for the next stages. For the First stage, we had to research how to generate energy using either wind or water, and answer a couple of questions. For the Second stage, we had to use the research we gathered and make thumbnail sketches usually showing ways to use wind and/or water. For the third stage, we, as a group, had to discuss what materials we would need for the construction phase. For the final stage, we, as a group, had to construct the consumer, choose to use wind as our source to make electricity, and build the wind turbine. Eventually we combined the wind turbine with the house and changed it to water. Below are attached files of the complete project.
+
 ![Alt text](../assets/image3.jpeg)
 ![Alt text](../assets/image4.jpeg)
 
@@ -37,6 +39,7 @@ I chose this tech project because my group and I went through many problems in t
 I had to choose and research an element from the periodic table and design a “WANTED” or “HERO” poster of that element. The poster needed to have five pictures of that element and where it is used, characteristics of the element, chemical and physical properties of the element, where it is used, and some interesting facts about it. 
 ### Reflection
 I chose this Science project because we got to choose what element we wanted to research and make a poster about. I also learned a lot about the element Lead from this project. This project had a few steps. First, we had to choose the element we wanted to research about. Secondly, we had to research the element we chose and find a few pictures that represent the element. And finally, we had to take everything we found and either make a wanted poster or hero poster.
+
 ![Alt text](../assets/Lead-Wanted-Poster.jpg)
 
 
