@@ -1,25 +1,3 @@
-<style>
-  .image-container {
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-  
-  .image-container img {
-    width: 45%;
-    max-width: 400px;
-    height: auto;
-    border-radius: 8px;
-  }
-  
-  @media (max-width: 768px) {
-    .image-container img {
-      width: 100%;
-    }
-  }
-</style>
-
 # Section 1: Personal Information
 ## Why I took SciTech
 I took the Scitech program at Port Credit Secondary School since it would help me have a greater chance to get a spot into the universities I would like to go to in the future like University of T[..[...]
@@ -50,14 +28,9 @@ In this tech project I built a Logic Gate Circuit with 5 chips and 6 inputs, and
 I had to research, design, develop, build, and test a power generation plant that uses sustainable energy such as wind or water to power LED bulbs. First, I had to research power generation and dr[...]
 ### Reflection
 In this project my group and I had to use either wind or water to generate electricity to power up to 5 LED bulbs. In this project there were 4 stages: research, drawing, materials, and constructi[...]
-![Alt text](../assets/image0.jpeg)
-![Alt text](../assets/image1.jpeg)
-![Alt text](../assets/image2.jpeg)
+![Alt text](../assets/image3.jpeg)
+![Alt text](../assets/image4.jpeg)
 
-<div class="image-container">
-  <img src="../assets/image3.jpeg" alt="Alt text" />
-  <img src="../assets/image4.jpeg" alt="Alt text" />
-</div>
 
 ## SNC1WR Science
 ### Periodic Table Wanted Element Poster
