@@ -22,11 +22,11 @@
 
 # Section 1: Personal Information
 ## Why I took SciTech
-I took the Scitech program at Port Credit Secondary School since it would help me have a greater chance to get a spot into the universities I would like to go to in the future like University of To[...]
+I took the Scitech program at Port Credit Secondary School since it would help me have a greater chance to get a spot into the universities I would like to go to in the future like University of T[..[...]
 
 ## My Future Goals
 ### Post Secondary
-After high school I plan to enroll in Technology, Coding, or Chemistry at the University of Toronto at Mississauga or OntarioTech. I plan to either, with the help of scientists solve global issues [...]
+After high school I plan to enroll in Technology, Coding, or Chemistry at the University of Toronto at Mississauga or OntarioTech. I plan to either, with the help of scientists solve global issues [..[...]
 I then plan to use my knowledge and experience of everything I have done to give what I have gained to the next generation so they can use it to help theirs and the next.
 
 ### Career
@@ -38,7 +38,7 @@ I dream of being an engineer for computer science, specifically cybersecurity or
 # Section 2: SciTech Skills & Knowledge & Certifications
 ## TIJ1O Exploring Technologies
 ### Logic Gate Circuit Assignment
-I had to build a fully-functioning logic gate circuit with the knowledge that I have learned. I had to design and build a logic gate circuit with some parameters in mind. The circuit must include [...]
+I had to build a fully-functioning logic gate circuit with the knowledge that I have learned. I had to design and build a logic gate circuit with some parameters in mind. The circuit must include [...[...]
 ### Reflection
 In this tech project I built a Logic Gate Circuit with 5 chips and 6 inputs, and 8 LED's. I also made the schematics of the Logic Gate Circuit and the Truth Table for the Logic Gate Circuit. Whe[...]
 ![Alt text](../assets/Logic-Gate-P1.png)
@@ -55,15 +55,15 @@ In this project my group and I had to use either wind or water to generate elect
 ![Alt text](../assets/image2.jpeg)
 
 <div class="image-container">
-![Alt text](../assets/image3.jpeg)
-![Alt text](../assets/image4.jpeg)
+  <img src="../assets/image3.jpeg" alt="Alt text" />
+  <img src="../assets/image4.jpeg" alt="Alt text" />
 </div>
 
 ## SNC1WR Science
 ### Periodic Table Wanted Element Poster
 I had to choose and research an element from the periodic table and design a "WANTED" or "HERO" poster of that element. The poster needed to have five pictures of that element and where it[...]
 ### Reflection
-I chose this Science project because we got to choose what element we wanted to research and make a poster about. I also learned a lot about the element Lead from this project. This project had a [...]
+I chose this Science project because we got to choose what element we wanted to research and make a poster about. I also learned a lot about the element Lead from this project. This project had a [...[...]
 ![Alt text](../assets/Lead-Wanted-Poster.jpg)
 
 
@@ -84,7 +84,7 @@ At the Open House, I went to a group that talks about chemistry.  I showed the r
 
 **Responsibility:** Assist in teaching skiing to children
 ### Reflection:
-At the Brimacombe Ski School in Orono, Ontario I would help instructors teach skiing to little kids. I would go there every Sunday from January to March at 11 am to 1 pm. On the first few days we [...]
+At the Brimacombe Ski School in Orono, Ontario I would help instructors teach skiing to little kids. I would go there every Sunday from January to March at 11 am to 1 pm. On the first few days we [...[...]
 
 # Section 4: Extracurricular SciTech Experiences
 In Coding Club at Zebra Robotics, I learned programming in Python, Javascript, how to make websites in HTML, and how to program EV3 Robots and tell them what to do.
@@ -95,6 +95,7 @@ When I first started HTML, it was the first time I would use my first programmin
 
 After HTML, I started Javascript. I knew it was like HTML but you can use complex commands to do more. In the Beginner and Intermediate stage of Javascript I was doing challenges to use the differ[...]
 
-When I first started Python programming I wanted to learn how it works and what was the difference from Javascript. I also was surprised how different Python was from Javascript. It was difficult [...]
+When I first started Python programming I wanted to learn how it works and what was the difference from Javascript. I also was surprised how different Python was from Javascript. It was difficult [...[...]
 
 On June 18, 2023, Zebra Robotics held a STRIPE Competition. There were 3 categories: robotics, programming and innovation. I chose programming for python because it was the language I was learning[...]
+
