@@ -10,6 +10,7 @@ After high school I plan to study Computer Science, or Chemistry at the Universi
 My ultimate goal is to become a software engineer. I want to work in cybersecurity or a frontend/backend developer. The technological work is changing and I want to be one of the people building ways to protect systems and personal data. The Scitech program will help me to gain the technical skills to do these fast changing jobs.
 
 ## Evidence of Academic Achivements
+![STRIPE 3rd](../assets/stripe3rd-2023.jpg)
 ![STRIPE](../assets/stripePart.jpg)
 ![Python](../assets/py-3.png)
 
