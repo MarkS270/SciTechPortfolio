@@ -11,7 +11,7 @@ My ultimate goal is to become a software engineer. I want to work in cybersecuri
 
 ## Evidence of Academic Achivements
 ![STRIPE](../assets/stripePart.jpg)
-![Python](../assets/Py-3.jpg)
+![Python](../assets/py-3.png)
 
 # Section 2: SciTech Skills & Knowledge & Certifications
 ## TIJ1O Exploring Technologies
