@@ -1,17 +1,17 @@
 # Section 1: Personal Information
 ## Why I took SciTech
-I took the Scitech program at Port Credit Secondary School since it would help me have a greater chance to get a spot into the universities I would like to go to in the future like University of Toronto, or OntarioTech University. This program would also help me succeed in pursuing my dreams in Engineering and Science. I have always liked figuring out how things work and learning different languages for coding and the Scitech program would provide me with more experience that would allow me to become better at these things. The Scitech program’s learning environment would help my passion as well as my experience to grow, allowing me to be more experienced in the fields that interest me. The Scitech program would also allow me to gain connections to like-minded people, allowing me to exchange experiences and ideas that would allow me and these other people to grow as well.
+I decided to apply to the Scitech program at Port Credit Secondary School since it would help me have a greater chance to get a spot into the universities I would like to go to in the future like University of Toronto, or OntarioTech University. This program would help me succeed in pursuing my dreams in Engineering and Science since it would help me develop skills that would be important for the future. I have always liked figuring out how things work and learning different languages for coding and the Scitech program would provide me with more experience that would allow me to become better at these things. The Scitech program’s learning environment would help my passion as well as my experience to grow, allowing me to be more experienced in the fields that interest me. The Scitech program would also allow me to gain connections to like-minded people, allowing me to exchange experiences and ideas that would allow me and these other people to grow as well.
 
 ## My Future Goals
 ### Post Secondary
-After high school I plan to enroll in Technology, Coding, or Chemistry at the University of Toronto at Mississauga or OntarioTech. I plan to either, with the help of scientists solve global issues such as feeding a growing population and provide clean energy, or use digital platforms from social science perspectives and apply these concepts to work-integrated learning opportunities. 
-I then plan to use my knowledge and experience of everything I have done to give what I have gained to the next generation so they can use it to help theirs and the next.
+After high school I plan to study Computer Science, or Chemistry at the University of Toronto at Mississauga or OntarioTech. I would love to work with new technologies to solve real world issues such as feeding a growing population and providing clean energy. I also want to use digital platforms from a social science perspective and apply these concepts to work-integrated learning opportunities. In the future I plan to use my knowledge and experience and pass it onto the next generation so they can use it to help theirs and the next.
 
 ### Career
-I dream of being an engineer for computer science, specifically cybersecurity or a frontend/backend developer.
-
+My ultimate goal is to become a software engineer. I want to work in cybersecurity or a frontend/backend developer. The technological work is changing and I want to be one of the people building ways to protect systems and personal data. The Scitech program will help me to gain the technical skills to do these fast changing jobs.
 
 ## Evidence of Academic Achivements
+![Python 3](../assets/Logic-Gate-P1.png)
+![STRIPE participation](../assets/Logic-Gate-P1.png)
 
 # Section 2: SciTech Skills & Knowledge & Certifications
 ## TIJ1O Exploring Technologies
