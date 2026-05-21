@@ -1,4 +1,3 @@
-# Grade 10
 # Section 1: Personal Information
 ## Career Investigation
 Using the MyBlueprint website as well as the available surveys on the website, it was able to help me find a career that had the best compatibility with myself. The personal surveys were used to help find out if the occupation I choose would be a match. The occupation surveys helped find out the percentage match score of the surveyed occupation.   
