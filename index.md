@@ -3,8 +3,7 @@ Welcome to my SciTech Portfolio. I use this site to show the work and involvemen
 
 Along with the portfolio for each grade as listed below, here is the SciTech Portfolio Instruction Package and Portfolio Assessment Rubric.
 
-- 
-- 
+- [Download SciTech Portfolio Instructions](/assets/SciTechPortfolioInstructions.docx)
 
 ### Grade 9 - 12 Portfolio
 - [Grade 9](./posts/grade9Portfolio.md)
