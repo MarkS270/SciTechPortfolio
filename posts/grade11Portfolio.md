@@ -1,4 +1,3 @@
-# Grade 11
 # Section 1: Personal Information
 ## Post-Secondary and Career Plan
 During my Summer break I had time to realize and understand what I would like to do as well as enjoy doing. I realized that I would like to major in Computer Science. I then used the myBlueprint and found Universities that had Computer Science programs and using that I planned what subjects I would need to take in Grade 11 and Grade 12. I saw that some universities had the same course requirements and applied for those.
