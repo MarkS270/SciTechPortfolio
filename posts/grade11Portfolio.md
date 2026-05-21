@@ -6,6 +6,7 @@ Then I started looking into what universities I would like to go to for post-sec
 
 ## Evidence of Academic Achievements
 ![Alt text](../assets/UI-Java-III.jpg)
+![Alt text](../assets/stripe2025.jpg)
 
 # Section 2: SciTech Skills & Knowledge & Certifications
 ## SPH3UR Physics
