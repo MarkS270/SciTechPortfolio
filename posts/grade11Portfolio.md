@@ -1,12 +1,13 @@
 # Grade 11
 # Section 1: Personal Information
 ## Post-Secondary and Career Plan
-During my Summer break I had time to realize and understand that I would like to take Computer Science as what I would like to major in. I then used the myBlueprint and found Universities that had Computer Science programs and using that I planned what subjects I would need to take in Grade 11 and Grade 12. I saw that some universities had the same course requirements and applied for those.
+During my Summer break I had time to realize and understand what I would like to do as well as enjoy doing. I realized that I would like to major in Computer Science. I then used the myBlueprint and found Universities that had Computer Science programs and using that I planned what subjects I would need to take in Grade 11 and Grade 12. I saw that some universities had the same course requirements and applied for those.
 
 Then I started looking into what universities I would like to go to for post-secondary. I shortened it down to 6 universities: University of Toronto, University of Toronto Mississauga, Toronto Metropolitan University, OntarioTech University, University of Guelph, and McMaster University. These would be the ones I would apply to and visit later.
 
 ## Evidence of Academic Achievements
 ![Alt text](../assets/UI-Java-III.jpg)
+
 # Section 2: SciTech Skills & Knowledge & Certifications
 ## SPH3UR Physics
 ### Physics Lab - Coefficient of Friction
@@ -33,18 +34,11 @@ In this Final Project I learned a lot about creating and optimizing games, as we
 
 **Responsibility:** Assist in teaching skiing to children
 ### Reflection:
-Every Sunday from January to March  At 11 am and 1 pm, I would help the coach with teaching the little kids. We would slowly progress and get them ready for the big proper slopes using a less steeper and less longer slope for practice. After many weeks we would start going on larger slopes and a few harder ones as well. 
+Every Sunday from January to March at 11 am and 1 pm, I would help the coach with teaching the little kids. Using the experience I have gained from my past two years of volunteering, I implemented the use of simple explanations and terms as well as breaking larger steps into smaller and more manageable pieces for them. I would also help with slowly progressing through the slopes, building up the skills and confidence to go down steeper slopes.  This experience I have gained this year and the past years with be used to teach as a proper instructor next year.
 
 # Section 4: 
-After finishing Java and JavaFx at Zebra Robotics Coding Club, I transitioned to an online course that was provided by Harvard University for Introduction to Artificial Intelligence with Python, in June. Here I was able to learn more about AI and the different tasks it is able to handle.
+After a few couple of months, or a transition from fundamentals to more object oriented java programming, I was able to start on JavaFx which is used to make User Interfaces to complete a multitude of tasks.
 
-This online course split up Introduction to Artificial Intelligence with Python into 6 sections: Search,  Knowledge, Uncertainty, Optimization, Learning, Neural Networks, and Language. Each one of these sections described and gave examples of each of their own benefits as well as drawbacks. Of the 7 different types of AI I was able to learn about Search, Knowledge, Uncertainty, and Optimization.
+After completing the Challenges for JavaFx that taught me how to use it, I reached the final Challenges for Java and JavaFx. For these last three challenges I had to make a GUI for three different types of code with each having a set of parameters. I was able to finish the first challenge which was making a GUI for a library program that I made previously in Java. Below are pictures of the working GUI of the library program. After the first Challenge was done, I started with the second challenge which was for a burger place you make, and didn’t finish yet. 
 
-In Search AI, I learned that it finds all possible solutions to winning, losing or having a draw(No win or lose) and finds a solution for the certain action that was given to it. This can be shown easily through a Tic-Tac-Toe game that doesn’t have many ways to win. This AI uses search algorithms like depth-first and breadth-first search that help with finding the best possible way to win..
-
-In Knowledge AI, I learned that this AI uses information already available to it to draw conclusions and solutions. This AI can use this provided information to then complete certain tasks that are ambiguous or have missing components. This Knowledge AI uses algorithms such as propositional and first order logic to make this possible
-
-In Uncertainty AI, I learned that even with a limited amount of information it can do tasks provided a percentage probability that shows it is not entirely certain of a certain action taking place. This can be seen by the Mars rover and the uncertainty of the environment. This Uncertainty AI uses algorithms based on probability like conditional and joint probability.
-
-In Optimization AI, I learned that it through algorithms such as hill climbing and backtracking search, it will choose the best possible option from a set of options to solve solutions.
-
+In June 2025, Zebra Robotics held another S.T.R.I.P.E Competition for which we were paired into partners and had to use any Python programming experience to make an interactive map of Animal Migration patterns. To complete this challenge, my partner and I used Pygame to show three different types of animal migration patterns and used buttons to allow for more interactive ways to show each migration pattern. Though we did not receive any certificates for places, we did receive a participation award.
