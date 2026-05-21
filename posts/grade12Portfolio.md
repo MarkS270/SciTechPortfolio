@@ -22,7 +22,7 @@ In this assignment we needed to create a login page using Card Layout. We had to
 ### Reflection
 In this assignment we used concepts we learned earlier in this unit to complete this task such as using and implementing textfields, panels, frames, and buttons. Using all of this we were able to create the login screen. After the original program idea was finished, I tweaked the program to use passwordfield instead of textfield of the password input. This would provide security for the user. To allow the user to see what they wrote, I added a button to allow the user to change the input between the original text and the masking dots.
 
-[Watch video](../assets/LoginPage_small.mp4)
+[Watch video](../assets/LoginPage_small.mp4?raw=1)
 
 
 # Section 3: Community Work & Extracurricular Involvement 
