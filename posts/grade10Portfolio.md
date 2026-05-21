@@ -7,7 +7,6 @@ After completing the personal and Occupation surveys for five occupations that i
 
 After finding out my best matches, I realized that these 3 occupations, though having the best matches, also had a connection to what I liked to do such as, with the electronics engineer occupation, having a deep understanding of computers with more specific understandings of computer science and computer programming. These three occupations are what I think will be the occupations I will be pursuing in the future.
 
-
 ## Resume
 [Download .docx](../assets/Resume-P1.docx)
 ## Cover Letter
@@ -46,15 +45,13 @@ I chose this Tech project about making a pen/pencil holder out of cardboard and 
 
 **Responsibility:** Assist in teaching skiing to children
 ##Reflection:
-Every Sunday from January to March  At 11 am and 1 pm, I would help the coach with teaching the little kids. We would slowly progress and get them ready for the big proper slopes using a less steeper and less longer slope for practice. After many weeks we would start going on larger slopes and a few harder ones as well. 
+Every Sunday from January to March at 11 am and 1 pm, I would help the coach with teaching the little kids. We would use simple explanations and terms as well as breaking larger steps into smaller and more manageable pieces for them. We would also slowly progress through the slopes, slowly building up the skills and confidence to go down steeper slopes. After many weeks we would eventually start going on larger slopes and trying new skills. This experience helped me understand how to better explain details depending on the age range.
 
 # Section 4: Extracurricular SciTech Experiences
 In Coding Club for Zebra Robotics, I was able to finish the rest of the Python coding challenges, and start learning about how statements work Java and JavaFx coding since it is a different kind of coding language.
 
-I learned about how to use the different incode built functions and statements and how to take what I learned from python and use it in Java. Though Java is a different coding language, it still shares similarities with Python such as how the if statements work.
+I learned about how to use the different encoded built functions and statements and how to take what I learned from python and use it in Java. Though Java is a different coding language, it still shares similarities with Python such as how the if statements work.
 
-When I finished Python and started Java coding, I knew what to do since I have gone through a few languages already and started reading on how to do simple coding in Java to how to check if a credit card number is valid. After a few couple of months, I was able to start on JavaFx which is used to make tabs that the user can interact with.
+When I finished Python and started Java coding, I knew what to do since I have gone through a few languages already and started reading on how to do simple coding in Java to how to check if a credit card number is valid. From this I transitioned to using classes and constructors as a better way to organize, store and use information. I was also able to save changed information to an external document for the next program run iteration.
 
-After completing the Challenges for JavaFx, I reached the final Challenges for Java and JavaFx. For the last three challenges I had to make a GUI for three different types of code with each having a set of parameters. I was able to finish the first challenge which was making a GUI for a library program that I made previously in Java. Below are pictures of the working GUI of the library program. After the first Challenge was done, I started with the second challenge which was for a burger place you make, and didn’t finish yet. 
-
-In June 2024, Zebra Robotics held another S.T.R.I.P.E Competition, with three categories: robotics, programming and innovation. I chose programming for python because I finished the Python Course, there was no coding for Java, and it is important to make sure you don’t forget how to code in languages you finished in. In this competition, we were given multiple challenges that were ordered from easy to hard, each giving a different amount of points. We were allowed to choose any one and allowed to do multiple of them. After the competition finished and the judges finished assessing everyone, the awards were handed out and I got 3rd place.
+In June 2024, Zebra Robotics held another S.T.R.I.P.E Competition, with three categories: robotics, programming and innovation. I chose programming for python because I finished the Python Course, there was no coding for Java, and it is important to make sure you don’t forget how to code in languages you finished in. In this competition, we were given multiple challenges that were ordered from easy to hard, each giving a different amount of points. We were allowed to choose any one and allowed to do multiple of them. After the competition finished and the judges finished assessing everyone, the awards were handed out and I got 2nd place.
